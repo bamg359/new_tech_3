@@ -1,6 +1,10 @@
 
 
 
-def calculatePrice(cost):
+def calculatePrice(cost, revenue):
     price = cost/(1- revenue)
-    pint (price)
+    print (price)
+
+
+
+
