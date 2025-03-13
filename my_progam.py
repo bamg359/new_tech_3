@@ -6,5 +6,8 @@ def calculatePrice(cost, revenue):
     print (price)
 
 
+calculatePrice(15000, 0.30)   
+
+
 
 
